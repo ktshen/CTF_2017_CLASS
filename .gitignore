@@ -3,3 +3,5 @@ peda-session*
 *.pyc
 *.log
 .gdb_history
+core
+
